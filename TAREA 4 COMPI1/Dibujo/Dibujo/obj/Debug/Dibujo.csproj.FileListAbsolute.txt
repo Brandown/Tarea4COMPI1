@@ -1,0 +1,11 @@
+C:\Users\brandon\Desktop\TAREA 4 COMPI1\Dibujo\Dibujo\bin\Debug\Dibujo.exe
+C:\Users\brandon\Desktop\TAREA 4 COMPI1\Dibujo\Dibujo\bin\Debug\Dibujo.pdb
+C:\Users\brandon\Desktop\TAREA 4 COMPI1\Dibujo\Dibujo\bin\Debug\CalithaLib.dll
+C:\Users\brandon\Desktop\TAREA 4 COMPI1\Dibujo\Dibujo\bin\Debug\GoldParserEngine.dll
+C:\Users\brandon\Desktop\TAREA 4 COMPI1\Dibujo\Dibujo\obj\Debug\Dibujo.csprojResolveAssemblyReference.cache
+C:\Users\brandon\Desktop\TAREA 4 COMPI1\Dibujo\Dibujo\obj\Debug\Dibujo.Form1.resources
+C:\Users\brandon\Desktop\TAREA 4 COMPI1\Dibujo\Dibujo\obj\Debug\Dibujo.Form2.resources
+C:\Users\brandon\Desktop\TAREA 4 COMPI1\Dibujo\Dibujo\obj\Debug\Dibujo.Properties.Resources.resources
+C:\Users\brandon\Desktop\TAREA 4 COMPI1\Dibujo\Dibujo\obj\Debug\Dibujo.csproj.GenerateResource.Cache
+C:\Users\brandon\Desktop\TAREA 4 COMPI1\Dibujo\Dibujo\obj\Debug\Dibujo.exe
+C:\Users\brandon\Desktop\TAREA 4 COMPI1\Dibujo\Dibujo\obj\Debug\Dibujo.pdb

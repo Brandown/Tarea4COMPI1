@@ -1,0 +1,6 @@
+Figura :: circulo & amarillo;
+Figura :: cuadrado & verde
+Titulo :: hola munod & rojo &mediano;
+Titulo :: hola munod & rojo &grande;
+Figura :: rectangulo & amarillo;
+Figura :: cuadrado & rojo;

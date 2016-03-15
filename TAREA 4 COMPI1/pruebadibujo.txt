@@ -1,0 +1,6 @@
+Figura :: circulo & rojo
+Figura :: cuadrado & verde;
+Titulo :: Hola mundo & rojo & mediano;
+Titulo :: Nuevo mundo& amarillo & grande;
+Figura :: rectangulo & amarillo;
+Figura :: cuadrado & verde;
